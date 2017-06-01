@@ -1,0 +1,3 @@
+In this problem, you are given a file containing a single string. You must count the total number of each DNA nucleotide in this string.
+
+The problem can be solved by utilizing the count function in the python standard library
